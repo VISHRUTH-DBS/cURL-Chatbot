@@ -331,6 +331,4 @@ Possible future improvements include:
 * Support for company-specific cURL collections
 * Separate collections for different projects or teams
 
-## License
 
-This project is intended for educational and development purposes.
