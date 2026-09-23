@@ -99,7 +99,7 @@ Make sure the following are installed:
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/VISHRUTH-DBS/cURL-Chatbot
 cd "Chatbot Ver2"
 ```
 
