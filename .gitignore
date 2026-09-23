@@ -1,11 +1,32 @@
+# Environment variables
 .env
+
+# Virtual environments
 myenv/
 venv/
 .venv/
 
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 
+# Streamlit
 .streamlit/
+
+# Logs
 *.log
+
+# SSL / Corporate certificates
+groq-ca-bundle.pem
+zscaler.cer
+zscaler.pem
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
