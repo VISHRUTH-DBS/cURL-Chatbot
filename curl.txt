@@ -1,0 +1,207 @@
+curl "https://www.google.com"
+
+curl "https://www.bing.com"
+
+curl "https://search.brave.com"
+
+curl "https://duckduckgo.com"
+
+curl "https://www.yahoo.com"
+
+curl "https://www.youtube.com"
+
+curl "https://www.netflix.com"
+
+curl "https://www.primevideo.com"
+
+curl "https://www.twitch.tv"
+
+curl "https://vimeo.com"
+
+curl "https://www.dailymotion.com"
+
+curl "https://www.youtube.com/shorts"
+
+curl "https://www.facebook.com"
+
+curl "https://www.instagram.com"
+
+curl "https://www.linkedin.com"
+
+curl "https://www.reddit.com"
+
+curl "https://www.pinterest.com"
+
+curl "https://www.tiktok.com"
+
+curl "https://discord.com"
+
+curl "https://web.whatsapp.com"
+
+curl "https://telegram.org"
+
+curl "https://x.com"
+
+curl "https://www.coursera.org"
+
+curl "https://www.udemy.com"
+
+curl "https://www.edx.org"
+
+curl "https://www.khanacademy.org"
+
+curl "https://www.codecademy.com"
+
+curl "https://www.freecodecamp.org"
+
+curl "https://www.w3schools.com"
+
+curl "https://www.geeksforgeeks.org"
+
+curl "https://ocw.mit.edu"
+
+curl "https://www.udacity.com"
+
+curl "https://www.pluralsight.com"
+
+curl "https://www.datacamp.com"
+
+curl "https://leetcode.com"
+
+curl "https://www.hackerrank.com"
+
+curl "https://www.hackerearth.com"
+
+curl "https://stackoverflow.com"
+
+curl "https://github.com"
+
+curl "https://gitlab.com"
+
+curl "https://bitbucket.org"
+
+curl "https://developer.mozilla.org"
+
+curl "https://www.python.org"
+
+curl "https://www.java.com"
+
+curl "https://nodejs.org"
+
+curl "https://react.dev"
+
+curl "https://www.tensorflow.org"
+
+curl "https://pytorch.org"
+
+curl "https://en.wikipedia.org"
+
+curl "https://www.britannica.com"
+
+curl "https://www.google.com/maps"
+
+curl "https://maps.apple.com"
+
+curl "https://www.google.com/images"
+
+curl "https://images.google.com"
+
+curl "https://unsplash.com"
+
+curl "https://www.pexels.com"
+
+curl "https://pixabay.com"
+
+curl "https://www.flickr.com"
+
+curl "https://www.canva.com"
+
+curl "https://www.behance.net"
+
+curl "https://dribbble.com"
+
+curl "https://www.amazon.com"
+
+curl "https://www.flipkart.com"
+
+curl "https://www.ebay.com"
+
+curl "https://www.etsy.com"
+
+curl "https://www.microsoft.com"
+
+curl "https://www.apple.com"
+
+curl "https://www.google.com"
+
+curl "https://www.ibm.com"
+
+curl "https://www.oracle.com"
+
+curl "https://www.adobe.com"
+
+curl "https://www.nvidia.com"
+
+curl "https://www.tesla.com"
+
+curl "https://www.samsung.com"
+
+curl "https://www.sony.com"
+
+curl "https://www.sportingnews.com"
+
+curl "https://www.espn.com"
+
+curl "https://www.espncricinfo.com"
+
+curl "https://www.cricbuzz.com"
+
+curl "https://www.fifa.com"
+
+curl "https://www.nba.com"
+
+curl "https://www.nfl.com"
+
+curl "https://www.formula1.com"
+
+curl "https://www.uefa.com"
+
+curl "https://www.olympics.com"
+
+curl "https://www.imdb.com"
+
+curl "https://www.rottentomatoes.com"
+
+curl "https://www.themoviedb.org"
+
+curl "https://www.metacritic.com"
+
+curl "https://www.justwatch.com"
+
+curl "https://www.fandango.com"
+
+curl "https://www.letterboxd.com"
+
+curl "https://www.goodreads.com"
+
+curl "https://www.tripadvisor.com"
+
+curl "https://www.booking.com"
+
+curl "https://www.airbnb.com"
+
+curl "https://www.skyscanner.com"
+
+curl "https://www.google.com/travel"
+
+curl "https://www.nytimes.com"
+
+curl "https://www.bbc.com"
+
+curl "https://www.reuters.com"
+
+curl "https://www.cnn.com"
+
+curl "https://www.theguardian.com"
+
+curl "https://www.wired.com"
