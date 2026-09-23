@@ -333,4 +333,7 @@ Possible future improvements include:
 
 ## Screenshots
 
+<img width="1137" height="588" alt="Screenshot 2026-09-23 123844" src="https://github.com/user-attachments/assets/20aa1d49-504f-4fd9-8789-1d89fa9146e3" />
+<img width="1068" height="712" alt="Screenshot 2026-09-23 123859" src="https://github.com/user-attachments/assets/3673a809-2191-4963-81d6-e9404fe96c23" />
+<img width="1085" height="752" alt="Screenshot 2026-09-23 123912" src="https://github.com/user-attachments/assets/a569e4fc-1903-4248-841c-27aa3b2dc1e6" />
 
