@@ -67,7 +67,7 @@ The chatbot analyzes the request and selects the most relevant website from `cur
 ## Project Structure
 
 ```text
-Chatbot Ver2/
+cURL Chatbot/
 │
 ├── app.py
 ├── curl.txt
